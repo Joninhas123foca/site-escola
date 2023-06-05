@@ -4,8 +4,8 @@ padding: 24px 0;
 }
 .cabecalho {
 width: 100%;
-background-color: #333d50;
-color: white;
+background-color: #2d5db4;
+color: rgb(57, 224, 99);
 display: flex;
 justify-content: space-around;
 padding: 24 px 0;
